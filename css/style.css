@@ -8,6 +8,9 @@ body {
   justify-content: space-around;
   height: 72px;
 }
+.logo {
+  background-color: #2e2f42;
+}
 
 .navigation {
   display: flex;
@@ -45,9 +48,7 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.logo {
-  background-color: #2e2f42;
-}
+
 h1 {
   color: #ffffff;
   font-weight: 700;
