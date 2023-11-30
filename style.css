@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: 'Raleway', 'Roboto', sans-serif;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 72px;
+}
+
+.navigation {
+  display: flex;
+}
+.navigation ul {
+  list-style: none;
+  display: flex;
+}
+
+.navigation li {
+  margin-right: 40px;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #000;
+}
+
+.web {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.studio {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.logo {
+  background-color: #2e2f42;
+}
+h1 {
+  color: #ffffff;
+  font-weight: 700;
+  flex-direction: column;
+  padding-top: 188px;
+  padding-right: 472px;
+  padding-bottom: 292px;
+  padding-left: 472px;
+}
+.button {
+}
