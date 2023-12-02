@@ -44,6 +44,13 @@ body {
 }
 .link-1 {
   font-weight: 500;
+  height: 1.5;
+  letter-spacing: 0.02em;
+  color:#2e2f42;
+}
+.link-1:hover,
+.link-1:focus {
+  background-color: #404bbf;
 }
 
 /* section-1 */
@@ -88,7 +95,7 @@ body {
   color: #434455;
 }
 /* section-3 */
-.section-3 {
+.logo-title-3{
   background-color: #f4f4fd;
 }
 .section-title {
