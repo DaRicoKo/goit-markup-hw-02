@@ -81,7 +81,7 @@ body {
   background-color: #404bbf;
 }
 /* section-2 */
-.section-2-title {
+.section-item-title {
   font-weight: 500;
   font-size: 20px;
   font-size: 20px;
@@ -89,7 +89,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section-2-description {
+.section-item-description {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
